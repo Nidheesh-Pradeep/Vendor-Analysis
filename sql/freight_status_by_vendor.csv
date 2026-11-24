@@ -1,0 +1,118 @@
+vendor,freight_status,shipments,numeric_freight_usd
+ABBOTT LABORATORIES (PUERTO RICO),Numeric value,1,314.0
+ABBOTT LOGISTICS B.V.,Included in commodity cost,1,
+ABBVIE LOGISTICS (FORMERLY ABBOTT LOGISTICS BV),Numeric value,307,1953114.7
+ABBVIE LOGISTICS (FORMERLY ABBOTT LOGISTICS BV),Invoiced separately,21,
+ABBVIE LOGISTICS (FORMERLY ABBOTT LOGISTICS BV),Included in commodity cost,7,
+"ABBVIE, SRL (FORMALLY ABBOTT LABORATORIES INTERNATIONAL CO.)",Invoiced separately,2,
+"ABBVIE, SRL (FORMALLY ABBOTT LABORATORIES INTERNATIONAL CO.)",Numeric value,1,666.66
+"ABBVIE, SRL (FORMALLY ABBOTT LABORATORIES INTERNATIONAL CO.)",Included in commodity cost,1,
+"ACCESS BIO, INC.",Numeric value,1,5642.36
+ACCOUN NIGERIA LIMITED,Included in commodity cost,3,
+ACOUNS NIGERIA LTD,Included in commodity cost,1,
+ACTION MEDEOR E.V.,Numeric value,1,1731.89
+AHN (PTY) LTD (AKA UCB (S.A.),Included in commodity cost,1,
+AMSTELFARMA B.V.,Numeric value,5,24810.04
+ASPEN PHARMACARE,Numeric value,32,60494.08
+ASPEN PHARMACARE,Included in commodity cost,3,
+AUROBINDO PHARAM (SOUTH AFRICA),Numeric value,1,3908.56
+Abbott GmbH & Co. KG,Numeric value,20,84967.72
+Abbott GmbH & Co. KG,Invoiced separately,1,
+Aurobindo Pharma Limited,Numeric value,503,4950613.5
+Aurobindo Pharma Limited,Included in commodity cost,26,
+Aurobindo Pharma Limited,Invoiced separately,12,
+B&C GROUP S.A.,Numeric value,2,1200.58
+BIO-RAD LABORATORIES (FRANCE),Numeric value,25,181319.69
+BIO-RAD LABORATORIES (FRANCE),Invoiced separately,3,
+BIO-RAD LABORATORIES PTY LTD. (SOUTH AFRICA),Included in commodity cost,1,
+BIOLYTICAL LABORATORIES INC.,Numeric value,3,10284.91
+BIOLYTICAL LABORATORIES INC.,Included in commodity cost,2,
+BRISTOL-MYERS SQUIBB,Numeric value,34,40496.49
+BRISTOL-MYERS SQUIBB,Included in commodity cost,21,
+BUNDI INTERNATIONAL DIAGNOSTICS LTD,Included in commodity cost,2,
+CENTRAL PHARMACEUTICAL COMPANY NO. 1,Numeric value,1,1401.49
+"CHEMBIO DIAGNOSTIC SYSTEMS, INC.",Numeric value,103,707369.44
+"CHEMBIO DIAGNOSTIC SYSTEMS, INC.",Invoiced separately,5,
+"CHEMBIO DIAGNOSTIC SYSTEMS, INC.",Included in commodity cost,1,
+CIPLA LIMITED,Numeric value,151,1889796.42
+CIPLA LIMITED,Included in commodity cost,11,
+CIPLA LIMITED,Invoiced separately,7,
+EMCURE PHARMACEUTICALS LTD,Numeric value,31,177920.98
+EMCURE PHARMACEUTICALS LTD,Invoiced separately,9,
+ETHNOR DEL ISTMO S.A.,Numeric value,1,240.0
+ETHNOR DEL ISTMO S.A.,Included in commodity cost,1,
+EY Laboratories,Numeric value,1,803.6
+EY Laboratories,Invoiced separately,1,
+"GILEAD SCIENCES IRELAND, INC.",Numeric value,4,31083.45
+GLAXOSMITHKLINE EXPORT LIMITED,Numeric value,15,119690.01
+GLAXOSMITHKLINE EXPORT LIMITED,Included in commodity cost,4,
+HETERO LABS LIMITED,Numeric value,176,2641009.83
+HETERO LABS LIMITED,Invoiced separately,19,
+HETERO LABS LIMITED,Included in commodity cost,4,
+HUMAN GMBH,Numeric value,2,1552.34
+HUMAN GMBH,Invoiced separately,1,
+Hoffmann-La Roche ltd Basel,Numeric value,21,72057.63
+Hoffmann-La Roche ltd Basel,Invoiced separately,1,
+IDA FOUNDATION,Numeric value,14,107686.72
+IDIS LIMITED,Included in commodity cost,3,
+IDIS LIMITED,Numeric value,1,180.0
+IMRES B.V.,Numeric value,3,13339.0
+INTERNATIONAL HEALTHCARE DISTRIBUTORS,Included in commodity cost,9,
+INTERNATIONAL HEALTHCARE DISTRIBUTORS,Numeric value,1,1100.2
+INVERNESS MEDICAL INNOVATIONS HONG KONG LTD,Numeric value,2,41179.22
+INVERNESS MEDICAL INNOVATIONS SOUTH AFRICA (PTY) LTD,Numeric value,1,963.34
+JANSSEN SCIENCES IRELAND UC (FORMERLY JANSSEN R&D IRELAND),Numeric value,3,2364.26
+JANSSEN SCIENCES IRELAND UC (FORMERLY JANSSEN R&D IRELAND),Included in commodity cost,3,
+JANSSEN SCIENCES IRELAND UC (FORMERLY JANSSEN R&D IRELAND),Invoiced separately,1,
+"JSI R&T INSTITUTE, INC.",Included in commodity cost,8,
+KAS MEDICS LIMITED,Included in commodity cost,1,
+LAWRENCE LABORATORIES (SUBSIDIARY OF BRISTOL MYERS SQUIBB),Numeric value,14,44133.34
+LAWRENCE LABORATORIES (SUBSIDIARY OF BRISTOL MYERS SQUIBB),Invoiced separately,1,
+MEDMIRA EAST AFRICA LTD.,Included in commodity cost,1,
+MERCK SHARP & DOHME IDEA GMBH (FORMALLY MERCK SHARP & DOHME B.V.),Numeric value,46,65513.41
+MERCK SHARP & DOHME IDEA GMBH (FORMALLY MERCK SHARP & DOHME B.V.),Included in commodity cost,15,
+MICRO LABS LIMITED,Numeric value,24,194250.1
+MICRO LABS LIMITED,Invoiced separately,1,
+MISSIONPHARMA A/S,Numeric value,3,32084.69
+"MSD LATIN AMERICA SERVICES, S. DE R.L. DE C.V.",Included in commodity cost,2,
+MYLAN LABORATORIES LTD (FORMERLY MATRIX LABORATORIES),Numeric value,239,3123023.5
+MYLAN LABORATORIES LTD (FORMERLY MATRIX LABORATORIES),Invoiced separately,8,
+MYLAN LABORATORIES LTD (FORMERLY MATRIX LABORATORIES),Included in commodity cost,3,
+NOVARTIS PHARMA SERVICES AG,Numeric value,5,47138.58
+OMEGA DIAGNOSTICS LTD,Numeric value,1,633.73
+Orasure Technologies Inc.,Numeric value,44,215498.69
+Orasure Technologies Inc.,Included in commodity cost,10,
+Orasure Technologies Inc.,Invoiced separately,2,
+"Orgenics, Ltd",Numeric value,602,9834527.02
+"Orgenics, Ltd",Invoiced separately,49,
+"Orgenics, Ltd",Included in commodity cost,16,
+PHARMACY DIRECT,Included in commodity cost,58,
+PLURIPHARM S.A.,Included in commodity cost,1,
+"PUETRO RICO PHARMACEUTICAL, INC.",Numeric value,1,2748.16
+Premier Medical Corporation Ltd.,Numeric value,12,95744.41
+"RAININ INSTRUMENT, LLC.",Included in commodity cost,1,
+RANBAXY Fine Chemicals LTD.,Numeric value,2,1639.87
+REINBOLD EXPORT IMPORT,Included in commodity cost,12,
+S. BUYS WHOLESALER,Included in commodity cost,191,
+S. BUYS WHOLESALER,Numeric value,3,8887.0
+SCMS from RDC,Numeric value,3205,34854520.36
+SCMS from RDC,Included in commodity cost,159,
+SCMS from RDC,Invoiced separately,76,
+SETEMA LIMITED PLC,Included in commodity cost,1,
+"SHANGHAI KEHUA BIOENGINEERING CO.,LTD.  (KHB)",Numeric value,70,2383953.19
+STRIDES ARCOLAB LIMITED,Numeric value,82,1032868.04
+STRIDES ARCOLAB LIMITED,Included in commodity cost,2,
+STRIDES ARCOLAB LIMITED,Invoiced separately,1,
+SUB-SAHARAN BIOMEDICAL P.L.C.,Included in commodity cost,1,
+SUN PHARMACEUTICAL INDUSTRIES LTD (RANBAXY LABORATORIES LIMITED),Numeric value,8,93060.37
+SWORDS LABORATORIES,Numeric value,3,2494.72
+SYSMEX AMERICA INC,Numeric value,1,4059.85
+"Standard Diagnostics, Inc.",Numeric value,93,1291839.63
+"Standard Diagnostics, Inc.",Invoiced separately,2,
+THE MEDICAL EXPORT GROUP BV,Numeric value,1,37744.27
+TURE PHARMACEUTICALS & MEDICAL SUPPLIES P.L.C.,Included in commodity cost,3,
+"Trinity Biotech, Plc",Numeric value,269,2321168.85
+"Trinity Biotech, Plc",Invoiced separately,16,
+WAGENIA,Included in commodity cost,1,
+ZEPHYR BIOMEDICALS,Numeric value,3,1014.52
+ZEPHYR BIOMEDICALS,Included in commodity cost,2,

@@ -1,0 +1,8 @@
+SELECT
+    strftime('%Y-%m', date(delivered_to_client_date_parsed)) AS delivery_month,
+    COUNT(DISTINCT asn_dn) AS shipments,
+    COUNT(*) AS line_rows,
+    ROUND(SUM(line_item_value_numeric), 2) AS line_item_value
+FROM stg_shipments
+GROUP BY delivery_month
+ORDER BY delivery_month;
